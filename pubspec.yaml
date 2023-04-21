@@ -49,6 +49,7 @@ dependencies:
   just_audio: ^0.9.32
   video_player: ^2.6.1
   auto_orientation: ^2.2.1
+  camera: ^0.10.4
 
 dev_dependencies:
   flutter_test:
